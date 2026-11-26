@@ -31,4 +31,4 @@ if __name__ == "__main__":
             print(hrefs)
     # osetrete potencialni chyby pomoci vetve except
     except Exception as e:
-        print(f"Program skoncil chybou: {e}"
+        print(f"Program skoncil chybou: {e}")
